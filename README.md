@@ -27,3 +27,7 @@ $ install
 
 To create your `message` type your message inside of the `Message...` input.
 Then inside of the `How many messages?` input type a valid number into the input and click "**Run**", the message-sending is delayed by 3 seconds.
+
+
+###### SPAMMER GUI IS DEVELOPED BY MYFER. THIS SOFTWARE IS LICENSED
+###### [MORE INFORMATION ON THE LICENSE](LICENSE)
